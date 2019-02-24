@@ -1,3 +1,14 @@
+filename        ../pdf_tmpl.pdf
+version 2
+encryption      false
+creationdate    D:19981104165126Z
+keywords        version 1.0
+producer        Acrobat Distiller 3.01 for Windows
+author  Bryan Guignard  copyright 1998
+title   PDF Template manual
+moddate D:20041014120330+10'00'
+creator ADOBEPS4.DRV Version 4.10
+subject A document from our PDF archive.
 pages   34
 page1   pagesize        Rectangle: 792.0x1224.0 (rot: 0 degrees)
 page1   text length     1336
